@@ -1,0 +1,17 @@
+[general]
+name=Dude, where's my window?
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
+description=Ever had a window vanish off-screen, spawn somewhere unreachable, or hide behind everything else? This plugin rounds up all your floating undocked QGIS windows and herds them back onto the same screen as your map canvas — resized to fit, and cascaded so you can see them all.
+version=1.0.0
+author=Ian Hay prompting Claude
+email=
+about=Ever had a window vanish off-screen, spawn somewhere unreachable, or hide behind everything else? This plugin rounds up all your floating undocked QGIS windows and herds them back onto the same screen as your map canvas — resized to fit, and cascaded so you can see them all.
+tracker=
+repository=
+tags=window,utility,layout,screen,floating
+homepage=
+category=Plugins
+icon=icon.svg
+experimental=False
+deprecated=False
