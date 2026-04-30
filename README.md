@@ -1,0 +1,1 @@
+Ever had a window vanish off-screen, spawn somewhere unreachable, or hide behind everything else? This plugin rounds up all your floating undocked QGIS windows and herds them back onto the same screen as your map canvas — resized to fit, and cascaded so you can see them all.
